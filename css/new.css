@@ -135,7 +135,7 @@
 
 
 footer {
-    color: black;
+    color: lightgray;
 
 }
 
@@ -200,3 +200,61 @@ margin-top: 40px;
 .Eva {
     margin-left: 100px;
 }
+
+
+div.gallery {
+    margin: 5px;
+    border: 1px solid white;
+    float: left;
+    width: 400px;
+    margin-top: 60px;
+    margin-left: 190px;
+  }
+
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+div.desc {
+    padding: 15px;
+    text-align: center;
+  }
+
+div.gallery2 {
+    margin: 5px;
+    border: 1px solid white;
+    float: left;
+    width: 400px;
+    margin-top: 60px;
+    margin-left: 190px;
+  }
+
+div.gallery2 img {
+    width: 100%;
+    height: auto;
+  }
+
+
+div.gallery3 {
+    margin: 30px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 400px;
+  }
+  
+div.gallery3:hover {
+    border: 1px solid #777;
+  }
+  
+div.gallery3 img {
+    width: 100%;
+    height: 250px;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: left;
+
+
