@@ -1,0 +1,135 @@
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+    border-style: dotted none dotted none;
+    margin-bottom: 20px;
+  }
+  
+  li {
+    float: left;
+    margin-left: 180px;
+  }
+  
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  li:hover {
+  color: black;
+  cursor: pointer;
+  }
+
+.box{
+    background-color: pink;
+    border-style: dotted;
+    border-color: black;
+    color: white
+}
+    
+.demo:hover {
+    cursor: pointer;
+    background: green;
+    border: red
+}
+
+.coloredline1{
+    width: 30px;
+}
+
+.coloredline{
+    width: 30px;
+    margin-left: 450px;
+    
+}
+
+.coloredline2{
+   margin-top: 40px;
+   margin-left: 290px;
+   position: relative;
+
+}
+
+.text-block{
+    position: absolute;
+    width: 400px;
+    bottom: 180px;
+    margin-left: 220px;
+    color: white;opacity: 1.0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+    font-style: normal;
+    cursor: pointer;
+}
+
+.lineup{
+    border-style: solid none none none;
+    border-color: lightgray;
+    border-top-width: 2px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 290px;
+    width: 830px;
+}
+
+.coloredline3{
+    margin-top: 40px;
+    margin-left: 290px;
+    position: relative
+ 
+ }
+
+ .coloredline4{
+    margin-top: 40px;
+    margin-left: 290px;
+    position: relative
+ 
+ }
+
+.text-block1{
+    position: absolute;
+    width: 500px;
+    bottom: 180px;
+    margin-left: 220px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+    font-size: 35px;
+    cursor: pointer;
+
+}
+
+.lineup2{
+    border-style: solid none none none;
+    border-color: lightgray;
+    border-top-width: 2px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 290px;
+    width: 830px;
+
+}
+
+.lineup3{
+    border-style: solid none none none;
+    border-color: lightgray;
+    border-top-width: 2px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 290px;
+    width: 830px;
+
+}
+
+
+footer {
+    color: black;
+
+}
